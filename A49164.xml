@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Cravens case briefly stated out of the report with observations, upon the several parts of the same.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49164</idno><idno type="EEBO-CITATION">99825189</idno>
+  <idno type="VID">29566</idno>
+  <idno type="EEBO-PROQUEST">2248506172</idno>
+  
+            <idno type="STC">Wing L3045A</idno>
+            <idno type="STC">ESTC R202752</idno>
+            <idno type="PROQUEST">99825189</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825189e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1835:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Cravens case briefly stated out of the report with observations, upon the several parts of the same.</title>
+                  <author>Craven, William Craven, Earl of, 1606-1697.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.L. for T.H. in Covengarden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not the same text as Wing L3045.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Craven, William Craven, --  Earl of, 1606-1697.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29566:1"/>
+            <p>THE Lord Cravens Case Briefly Stated out of the REPORT: WITH OBSERVATIONS, <hi>ƲPON THE SEVERAL PARTS OF THE SAME.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed by <hi>T.L.</hi> for <hi>T.H.</hi> in <hi>Covengarden.</hi> 1654:</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:29566:2"/>
+            <div type="case">
+               <head>
+                  <hi>THE</hi> Lord <hi>Crauens</hi> Case, Briefely Stated.</head>
+               <p>THat the Lord <hi>Crauen</hi> in Fe<g ref="char:EOLhyphen"/>bruary, 1641. went out of England to his Charge in Hol<g ref="char:EOLhyphen"/>land by license of the Lords as<g ref="char:EOLhyphen"/>sembled in Parliament.</p>
+               <p>The 6. of February, 1650. the Council of State refer it to the Commissioners for Compound<g ref="char:EOLhyphen"/>ing, to examine certain witnesses against the Lord <hi>Crauen,</hi> to proceed against him according to the Act and Ordinances for Se<g ref="char:EOLhyphen"/>questration, and to give an ac<g ref="char:EOLhyphen"/>count of their proceedings.</p>
+               <div type="observation">
+                  <head>OBSERVATIONS Vpon the several parts of the LORD CRAVENS CASE.</head>
+                  <p>THe examinations of <hi>Falconer</hi> was first framed, and then the Commissioners at <hi>Haberdashers-hall</hi> were sent for to give the said <hi>Falconer</hi> his oath at <hi>White-hall,</hi> there was no precedent Charge, or Accusation against the L. <hi>Craven,</hi> so as the wit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ss must of himself be an informer.</p>
+               </div>
+            </div>
+            <div type="case">
+               <p>Thereupon two witnesses are examined at whitehall, whose depositions are mentioned <hi>in the report at large,</hi> and one at Haber<g ref="char:EOLhyphen"/>dashers-Hall.</p>
+               <div type="observation">
+                  <p>Of the three witnesses there is but only <hi>Falconer</hi> that hath any thing of crime in his Deposition, who is convicted of per<g ref="char:EOLhyphen"/>jury for the very matter of that Deposition; those Depositions are in the nature of Affidavids, and are no evidence to con<g ref="char:EOLhyphen"/>vince.</p>
+               </div>
+            </div>
+            <div type="case">
+               <p>The 15. of February, 1650. the Lord <hi>Crauens</hi> Agents desired a copy of his charge, to the end to make a defence, but could not obtain it.</p>
+               <div type="observation">
+                  <p>The constant ceurse was after information taken against any, to give them Copies of the Charge, to prepare themselves to answer, before any thing done against them: here was no Charge drawn up, whereto an answer might be made, nei<g ref="char:EOLhyphen"/>ther before nor after the Depositions, neither in Parliament nor elsewhere.</p>
+               </div>
+            </div>
+            <div type="case">
+               <p>The 4. of March, 1650. the Commissioners for compound<g ref="char:EOLhyphen"/>ing certifie the Examinations ta<g ref="char:EOLhyphen"/>ken, and offer it as a doubt to the Council of State, <hi>Whether it were with<g ref="char:EOLhyphen"/>in the Act of Sequestration for any li<g ref="char:EOLhyphen"/>ving beyond Seas to hold correspondency with, or to repair to the King of</hi> Scots <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen beyond the Seas, and the Council or<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er a Report thereof to be made to the <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arliament.</hi>
+               </p>
+               <div type="observation">
+                  <p>There was just cause for the doubt, no Act or Ordinance imposing sequestration for any such crime, and neither of these doubts were at any time resolved by the Parliament, neither is it known upon which point they voted the confiscation.</p>
+               </div>
+            </div>
+            <div type="case">
+               <pb n="2" facs="tcp:29566:3"/>
+               <p>The 6. of March, 1650. upon the report resolved by the Par<g ref="char:EOLhyphen"/>liament, that the Lord <hi>Craven</hi> is an Offender within the De<g ref="char:EOLunhyphen"/>claration of the 24. of August, 1649. Declaring all persons who have served the Parliament of England in Ireland, and have betrayed their trust, or have, or shall adhere to, or aid and assist <hi>Charles Stuart,</hi> son of the late King, to be Traytors and Rebels, and that the Estate of the Lord <hi>Craven</hi> be confiscate according<g ref="char:EOLhyphen"/>ly: And that the Commissioners for Compounding be impowred and required to seize and seque<g ref="char:EOLhyphen"/>ster all the Estate real and perso<g ref="char:EOLhyphen"/>nal of the Lord <hi>Crauen.</hi>
+               </p>
+               <div type="observation">
+                  <p>The Vote of Confiscation passed the same day the informa<g ref="char:EOLhyphen"/>tion was reported to the Parliament there was then no Charge, Jmpeachment, or Indictment to which the Lord <hi>Craven</hi> might answer, or whercin his crime did appear.</p>
+                  <p>It is against the Law, and contrary to severall Acts of Parliament, that any should forfeit his Estate without con<g ref="char:EOLhyphen"/>viction upon a bare Vote without any Charge.</p>
+                  <p>It were unreasonable to expound this vote, that men should be adjudged Traytors and Rebels without legall tryal, and it cannot be supposed that a parliament, which is to preserve the peoples liberty, should take it away, and deprive them of that security which common Law and Iustice gives them, being adjudged to lose life and fortune without tryall or hea<g ref="char:EOLhyphen"/>ring; nor did the vote intend that an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> insufficient evidence in Law should be valid and perfect in parliament, for that in this case were to expose the parliament to reproach, and take away all credit of their proceedings.</p>
+                  <p>The Declaration of the <hi>24</hi> of <hi>August 1649.</hi> within which the L. <hi>Craven</hi> is voted to be an offender, is but a bare vote not reduced into a Law, which ought not to confiscate any mans estate real or personal. It appeares by the vote, that it was only intended for <hi>Ireland,</hi> no man within it, but those that had served the parliament of <hi>England</hi> in <hi>Ireland,</hi> and had betrayed their trust, or had or should adhere to the son of the late King, or any of the forces in <hi>Ireland</hi> against the parliament; and the same vote is ordered to be printed and published, and sent into <hi>Ireland</hi> to be put into execution there. But the Vote was most severely put in execution against the L. <hi>Craven,</hi> who resided all these times in <hi>Holland,</hi> and never served the parliament in <hi>Ireland.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="case">
+               <p>By Order of the 11. of March, 1650. from the Commissioners for compounding the Lord <hi>Cra<g ref="char:EOLhyphen"/>vens</hi> real and personal estate, was seized and sequestred.</p>
+               <div type="observation">
+                  <p>Ʋpon the issuing of these Orders for Confiscation some Members of Parliament bought part of the L. <hi>Cravens</hi> per<g ref="char:EOLhyphen"/>sonal estate▪ some of whom afterwards interested themselves in large purchases of his real estate.</p>
+               </div>
+            </div>
+            <div type="case">
+               <pb n="3" facs="tcp:29566:3"/>
+               <p>The Lrod <hi>Crauen</hi> by his A<g ref="char:EOLhyphen"/>gents endeavoured the repeal of those Votes, and Iune 12 1651. upon the debate of the first Bill for Sale of Delinquents Estates upon the question, whether the Lord <hi>Crauen</hi> should be within that Bill? it was resolved in the Negative; which Vote the third of Iuly 1651, was confirm<g ref="char:EOLhyphen"/>ed by a Summons, which was then directed for the Lord <hi>Cra<g ref="char:EOLhyphen"/>uen</hi> to appear the third of Sep<g ref="char:EOLhyphen"/>tember following, which was to be published in Westminster-Hall, and at the Old Exehange.</p>
+               <div type="observation">
+                  <p>All the Votes against the L. <hi>Craven</hi> were earried but b, one, two or three voyces, nothing clearly carried against him at any time after a vote in Parliament was carried in the Negative, to have the same question reassume<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> was unparliamentary, and shews that some in power which afterwards made hast to possess his estate were desirous of it from the first.</p>
+                  <p>It is an unheard of course in Justice, that an estate should bee confiscate, and the party have a Summons afterwards, the judgment preceding the Summons.</p>
+                  <p>The Summons without a charge or impeachment against him was illegal and irregular, as to ground any forfeiture upon the not obeying of it, it ought to have been to his person, and then if there had been a charge against him, the penal<g ref="char:EOLhyphen"/>ty for disobeying had been but a seizure <hi>quo usque,</hi> no con<g ref="char:EOLhyphen"/>fiscation or other forfeiture for that. <hi>This is the Law of En<g ref="char:EOLhyphen"/>gland.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="case">
+               <p>The Lord <hi>Crauen</hi> sends seve<g ref="char:EOLhyphen"/>ral Petitions, and others petitio<g ref="char:EOLhyphen"/>ned on his behalf, but could not prevail to be heard thereupon, and on Iune 22, 1652. upon the debate of an Additional Bill for Sale, the Parliament was infor<g ref="char:EOLhyphen"/>med by Petitions that Falconer (the onely witness that did de<g ref="char:EOLhyphen"/>pose any thing of crime against the Lord <hi>Crauen</hi>) was perjured, and their directions for examina<g ref="char:EOLhyphen"/>tion thereof was thereupon desired.</p>
+               <p>But that not being granted▪ Iuly 12 1652▪ Falconer was in<g ref="char:EOLhyphen"/>dicted of perjury at Guild Hall, and the indictment found.</p>
+               <div type="observation">
+                  <p>Was it ever known before a person accused desired to be heard and it was declined? the truth of this appears by the petitions themselves remaining on record, in the hands of Mr, <hi>Scobel</hi> Clerk of the Parliament; Neither was <hi>Falconer</hi> ever heard <hi>viva voce</hi> before the Parliament, or any Committee of Parliament, without which course no man was ever before adjudged by parliament.</p>
+               </div>
+            </div>
+            <div type="case">
+               <pb n="4" facs="tcp:29566:4"/>
+               <p>The 20 of Iuly, and 3 of Aug. 1652, upon debate of an Addi<g ref="char:EOLhyphen"/>tional Bill of Sale, the Parlia<g ref="char:EOLhyphen"/>ment were by petition informed, that the Indictment against Fal<g ref="char:EOLhyphen"/>coner was found, and that there were several other matters to impeach his testimony; notwith<g ref="char:EOLhyphen"/>standing the Lord <hi>Crauen</hi> was voted to be inserted in that Bill, which Vote was passed by a major number of two voyces only.</p>
+               <p>The 4 of August, 1652, the Lord <hi>Crauen</hi> is inserted into a Bill of sale, and thereby all his Mannors, Lands, Tenements and Hereditaments are Enacted and Declared to be forfeited.</p>
+               <p>The Lord <hi>Crauen</hi> addresseth himself by petition to the Par<g ref="char:EOLhyphen"/>liament to redeem his estate from sale, but could not prevail.</p>
+               <div type="observation">
+                  <p>The <hi>Members</hi> of that <hi>parliament,</hi> which passed <hi>votes</hi> concerning the Lord <hi>Craven,</hi> stept in with the first to buy the <hi>Estate, (though it was absolutely contrary to what had been formerly setled by vote of Parliament, that the whole proceedings were unparliamentary and carried precipitately, as appeares by the progress.)</hi> All means being shut up, whereby the secret contrivance of this <hi>depo<g ref="char:EOLhyphen"/>sition</hi> of <hi>Falconer,</hi> and the falshood contrived in it, might be discovered; which is sufficient evidence that some did seek the profit of themselves by the ruin of another▪ and de<g ref="char:EOLhyphen"/>vouring the Lord <hi>Cravens</hi> Estate; <hi>(though sometimes Rebels in Arms and open hostility have been esteemed convict by the notority of the fact, being publikely avow<g ref="char:EOLhyphen"/>ed by themselves, and the supreme power, assaulted by them openly,)</hi> yet it was never known, <hi>that where the fact was particular &amp; not apparent, but that it was to be dis<g ref="char:EOLhyphen"/>overed by examinations before any person was condem<g ref="char:EOLhyphen"/>ned to suffer in life, liberty or estate;</hi> For it were against all the <hi>practice of State that ever had been,</hi> and against <hi>common Justice, and pernicious to humane society,</hi> and for the prevention wheeeof, many <hi>Laws have been made in England;</hi> all which this course against <hi>the Lord Craven</hi> overthrows: And <hi>there is awide difference where a fact is denyed, and where it is avowedly continued;</hi> and therefore, <hi>violence against a Magistrate drawes on some<g ref="char:EOLhyphen"/>times the death of the Acterby the wilfulness and re<g ref="char:EOLhyphen"/>sistance of Authority without judgment (as it often happens in Tumults) but extraordinary courses are never just where ordinary may be used, where a man may be proceeded against by the ordinary way of Indictment and legal accusation, it is unjust to fall upon him by an absolute power without the requesite circumstances of judic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ture.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="case">
+               <p>The 20 of May, 1653. <hi>Falconer</hi> upon a full hearing at the Upper Bench-Bar, is found guilty of Perjury for that Deposition only.</p>
+               <div type="observation">
+                  <p>
+                     <hi>At this Tryall there was as great an Auditory as hath been seen at any Tryall.</hi>
+                  </p>
+                  <p>
+                     <hi>Besides, as to the Infamous carriage of this perjured Witness, it was proved at the tryall, that he drunk healths to the Devil on his knees: That he said our Saviour Christ was a Bastard, and the Vitgin</hi> Mary <hi>a Whore: That he gave a man 20. s. in gold to permit him to bugger him: And also was committed to</hi> Aelesbury Goal, <hi>and after<g ref="char:EOLhyphen"/>wards to</hi> New gaet <hi>upon suspition of severall Felonies.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="case">
+               <pb n="5" facs="tcp:29566:4"/>
+               <p>The supposed offences of the Lord <hi>Craven</hi> were fully pardoned by the Act of Oblivion, and Clame made by him thereunto before the Commissioners at <hi>Habberdashers Hall</hi> be<g ref="char:EOLhyphen"/>fore the passing of the Act of Sale for his Lands and he is debarred of the benefit of the Act only, by being put into a bill of Sale after the passing of the said Act of Oblivion.</p>
+               <p>And therefore he humbly prayeth the repeal of the said Votes of the <hi>6. of March, 1650.</hi> and of so much of the Act of Sale, as concerneth his estate, and that he may have such reparation for his unsufferble losses, as the Parliament in their Honors and Justice shall seem meet.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
